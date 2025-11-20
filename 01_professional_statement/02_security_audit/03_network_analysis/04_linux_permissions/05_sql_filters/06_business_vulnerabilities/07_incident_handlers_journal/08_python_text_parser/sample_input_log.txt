@@ -1,0 +1,6 @@
+2025-11-20 09:15:22 INFO User alice logged in from 192.168.1.10
+2025-11-20 09:16:03 FAILED LOGIN for user bob from 10.0.0.5
+2025-11-20 09:17:44 WARNING Disk space at 90% on server-1
+2025-11-20 09:18:12 INFO Scheduled backup completed
+2025-11-20 09:20:01 ERROR Unable to reach database from webserver-2
+2025-11-20 09:22:37 INFO User charlie logged out
